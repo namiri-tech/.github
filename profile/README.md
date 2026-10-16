@@ -1,11 +1,15 @@
-# Namiri Technology Limited on GitHub
+# Namiri Technology on GitHub
 
-## About
+Namiri Technology are the proprietors of DigiTax.
 
-An eTIMS technology provider licensed by Kenya Revenue Authority (KRA).
+## About DigiTax
+
+DigiTax is an E-invoicing compliance provider. DigiTax enables individuals and businesses to manage their e-invoicing requirements seamlessly.
+
+Through the DigiTax platform, your invoices, credit notes, (debit notes where applicable) are reported/fiscalized by FTA (in UAE), KRA (in Kenya), NRS (in Nigeria), TRA (in Tanzania), ZRA (in Zambia), and more coming soon.
 
 ## Products
 
-- DigiTax App - <https://play.google.com/store/apps/details?id=com.namiri.digitaxpos>
 - DigiTax Dashboard - <https://digitax.tech>
+- DigiTax App - <https://play.google.com/store/apps/details?id=com.namiri.digitaxpos>
 - DigiTax API - <https://docs.digitax.tech>
